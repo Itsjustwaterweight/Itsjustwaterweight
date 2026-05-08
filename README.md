@@ -23,3 +23,6 @@ Currently sailing the seas of:
 > “Not all treasure is silver and gold, mate.”
 >
 > 
+<p align="center">
+  <img src="Pirate.jpg" width="100%">
+</p>
